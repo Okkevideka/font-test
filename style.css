@@ -1,0 +1,20 @@
+* {
+    text-align: center;
+}
+h1 {
+    font-family: Dhurjati; 
+}
+body {
+    background-color: coral;
+}
+p {
+    font-family: Dhurjati;
+    font-size: xx-large
+}
+#font {
+    font-family: Silkscreen; 
+}
+img {
+    width: 575px;
+    height: 575px;
+}
